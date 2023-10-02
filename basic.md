@@ -1,4 +1,4 @@
-# Test-Repo
+# Testrepo
 
 A repo to understand the basic features of github and vsc.
 <br>
