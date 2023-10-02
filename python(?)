@@ -1,0 +1,8 @@
+x = int(input("Enter a number ="))
+i = 1
+for (x>i):
+ if (a = x%i = 1):
+    print(a,"is the divisor of",x)
+ else:
+    i= i+1
+
